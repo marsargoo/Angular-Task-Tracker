@@ -3,11 +3,10 @@
 Hello all!
 The point of this project was to create a Task Tracker that allows you to add, remove, and edit tasks using Angular V13. The task tracker furthermore allows you to route to an about page and back. 
 
+## How to run project
 
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+ - [ ] To have all the prerequisites necessary to run the project, please use the following [link](https://angular.io/guide/setup-local) and complete the steps in order.
+https://angular.io/guide/setup-local 
 
 ```
 cd existing_repo
